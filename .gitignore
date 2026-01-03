@@ -1,0 +1,12 @@
+source/librealsense
+source/curl-7.75.0
+src/data_msgs/
+src/data_tools/
+src/PikaAnyArm/
+src/realsense-ros/
+build/
+install/
+log/
+img/
+scripts/setup_multi*
+scripts/start_multi*
